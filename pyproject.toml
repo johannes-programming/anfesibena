@@ -6,11 +6,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "anfesibena"
-version = "0.0.0"
+version = "1.0.0"
 description = "numbers with additative and multiplicative inverses"
 readme = "README.rst"
 authors = [
-    { name = "Johannes", email = "johannes-programming@mailfence.com" },
+    { name = "Johannes", email = "johannes-computer@mailfence.com" },
 ]
 classifiers = [
     "License :: OSI Approved :: MIT License",
@@ -26,5 +26,5 @@ file = "LICENSE.txt"
 
 [project.urls]
 Download = "https://pypi.org/project/anfesibena/#files"
-Source = "https://github.com/johannes-programming/anfesibena"
+Source = "https://github.com/johannes-computer/anfesibena"
 
