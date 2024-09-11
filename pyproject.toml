@@ -19,8 +19,8 @@ description = "numbers with additative and multiplicative inverses"
 keywords = []
 name = "anfesibena"
 readme = "README.rst"
-requires-python = ">=3.11"
-version = "1.0.1"
+requires-python = ">=3.10"
+version = "1.0.2"
 
 [project.license]
 file = "LICENSE.txt"
